@@ -2,6 +2,8 @@
 
 A Node.js library that determines the type of indentation used in source code.
 
+[![Build Status](https://travis-ci.org/stevenbenner/identify-indent.png)](https://travis-ci.org/stevenbenner/identify-indent)
+
 ## Overview
 
 If you need to programmatically figure out if a piece of code uses tabs or spaces (and how many spaces) to indent lines then Identify Indent is here to help. Just pass the code in question or the path to the file and Identify Indent will try to detect what indentation convention it is using.
