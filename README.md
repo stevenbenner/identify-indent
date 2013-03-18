@@ -61,7 +61,7 @@ var indentInfo = identifyindent.string(code);
 
 ## Release History
 
-*(Nothing Yet)*
+* **v0.1.0** - 2013-03-18 - Initial release.
 
 ## License
 
