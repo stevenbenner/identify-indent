@@ -2,7 +2,7 @@
 
 A Node.js library that determines the type of indentation used in source code.
 
-[![Build Status](https://travis-ci.org/stevenbenner/identify-indent.png)](https://travis-ci.org/stevenbenner/identify-indent)
+[![Build Status](https://travis-ci.org/stevenbenner/identify-indent.png)](https://travis-ci.org/stevenbenner/identify-indent) [![Dependency Status](https://gemnasium.com/stevenbenner/identify-indent.png)](https://gemnasium.com/stevenbenner/identify-indent)
 
 ## Overview
 
